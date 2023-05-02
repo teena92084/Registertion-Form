@@ -1,0 +1,29 @@
+.container>h1{
+    color: red;
+
+}
+div{
+    background-color: aqua;
+    
+    
+} 
+
+.container{
+    background-color: aqua;
+    height: 500px;
+
+}
+input{
+    background-color:yellow;
+    
+
+    
+
+}
+.box>textarea{
+    background-color: yellow;
+    border-color: black;
+    box-sizing: 10px;
+}
+
+
